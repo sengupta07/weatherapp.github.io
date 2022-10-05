@@ -64,6 +64,9 @@ body::before {
     justify-content:center;
     align-items: center;
     margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .forecast-right {
     border-radius: 10px;
@@ -73,6 +76,9 @@ body::before {
     justify-content:center;
     align-items: center;
     margin-right: 500px;
+    margin-left: 500px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .forecast {
